@@ -1,0 +1,18 @@
+@media (max-width: 767px) {
+    .center-text {
+      text-align: center;
+    }
+  }
+  
+  .navbar {
+    backdrop-filter: blur(10px); 
+    background-color: rgba(255, 255, 255, 0.8); 
+  }
+  
+  section {
+    padding-top: 3rem;
+  }
+  
+  .fon-10vw {
+      font-size: var(--ukuran-font);
+  }
